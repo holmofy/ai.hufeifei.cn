@@ -34,15 +34,24 @@ menu:
   - name: LLM大模型
     icon: far fa-star
     config: llm
-  - name: 其他工具
+  - name: 场景分类
     icon: fas fa-tools
     submenu:
-      - name: 开发工具
+      - name: 信息处理与知识获取
         icon: fas fa-tools
-        config: devTools
-      - name: 我的博客
+        config: InfoExtractTools
+      - name: 自动化与效率提升
         icon: fas fa-blog
-        config: myBlog
+        config: AutoBotTools
+      - name: 决策支持与分析预测
+        icon: fas fa-blog
+        config: AnalysisDecisionTools
+      - name: 内容创作
+        icon: fas fa-blog
+        config: AIGCTools
+      - name: 人机交互与服务
+        icon: fas fa-blog
+        config: ServiceTools
 
 ai-coder:
   - name: 通义灵码
@@ -110,7 +119,40 @@ llm:
     url: https://bailian.console.aliyun.com/
     img: https://gw.alicdn.com/imgextra/i4/O1CN01vVn7g32134zNZEeAR_!!6000000006928-55-tps-24-24.svg
     description: 阿里大模型服务平台 - 百炼控制台
-myBlog:
+InfoExtractTools:
+  - name: WeKnora
+    url: https://github.com/Tencent/WeKnora
+    img: https://weknora.weixin.qq.com/assets/logo-0BQcke7L.png
+    description: 模块化RAG 企业级问答——插拔式接入本地大模型与向量库，打通多模态文档-召回-生成全流程构建自主知识引擎。
+AutoBotTools:
+  - name: Bytebot
+    url: https://www.bytebot.ai/
+    img: https://framerusercontent.com/images/FzU86ZIBVpLUcEFjuowJnGbqSgc.png
+    description: 桌面Agent可以像人类一样使用计算机
+AnalysisDecisionTools:
+  - name: prophet
+    url: https://github.com/facebook/prophet
+    img: https://facebook.github.io/prophet/static/logo.svg
+    description: 用于对具有线性或非线性增长的多个季节性的时间序列数据生成高质量预测的工具。
+  - name: gluonts
+    url: https://github.com/awslabs/gluonts
+    img: https://ts.gluon.ai/stable/_static/gluonts.svg
+    description: Python 中的概率时间序列建模
+  - name: chronos-forecasting
+    url: https://github.com/amazon-science/chronos-forecasting
+    img: https://raw.githubusercontent.com/amazon-science/chronos-forecasting/main/figures/chronos-logo.png
+    description: 用于概率时间序列预测的预训练模型
+AIGCTools:
+  - name: MoneyPrinterTurbo
+    url: https://github.com/harry0703/MoneyPrinterTurbo
+    img: data:image/png;base64,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
+    description: 只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
+  - name: GPT4All
+    url: https://github.com/nomic-ai/gpt4all
+    img: https://www.nomic.ai/gpt4all/gpt4all_word.svg
+    description: GPT4All 在日常台式机和笔记本电脑上私下运行大型语言模型 （LLM）。无需 API 调用或 GPU - 您只需下载应用程序即可开始使用。
+    
+ServiceTools:
   - name: Holmofy Blog
     url: https://blog.hufeifei.cn/
     img: /images/logos/myBlog.png
