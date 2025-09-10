@@ -155,6 +155,10 @@ AIGCTools:
     url: https://github.com/nomic-ai/gpt4all
     img: https://www.nomic.ai/gpt4all/gpt4all_word.svg
     description: GPT4All 在日常台式机和笔记本电脑上私下运行大型语言模型 （LLM）。无需 API 调用或 GPU - 您只需下载应用程序即可开始使用。
+  - name: AI Comic Factory
+    url: https://comicfactory.ai
+    img: https://comicfactory.ai/zh/icon.png
+    description: AI Comic Factory 让你在几秒钟内将创意转化为精美的漫画。我们的 AI 平台非常适合用作礼物、故事分享或个人项目，让每个人都能发挥创造力。
     
 ServiceTools:
   - name: Holmofy Blog
