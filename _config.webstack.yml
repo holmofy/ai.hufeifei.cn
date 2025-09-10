@@ -161,10 +161,10 @@ AIGCTools:
     description: AI Comic Factory 让你在几秒钟内将创意转化为精美的漫画。我们的 AI 平台非常适合用作礼物、故事分享或个人项目，让每个人都能发挥创造力。
     
 ServiceTools:
-  - name: Holmofy Blog
-    url: https://blog.hufeifei.cn/
-    img: /images/logos/myBlog.png
-    description: 一个懒人的博客。
+  - name: collov
+    url: https://collov.cn/
+    img: https://collov.cn/app_static/img/logo-zh.0082ecc1.svg
+    description: 用想象的速度来创造家居设计
 
 about:
   url: /about/
