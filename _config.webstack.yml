@@ -52,9 +52,6 @@ menu:
       - name: 人机交互与服务
         icon: fas fa-blog
         config: ServiceTools
-      - name: 编码提效
-        icon: fas fa-blog
-        config: CodeTools
 
 ai-coder:
   - name: 通义灵码
@@ -93,6 +90,14 @@ ai-coder:
     url: https://www.jetbrains.com/zh-cn/ai-assistant-features-china/
     img: https://www.jetbrains.com/icon-512.png
     description: JetBrains AI Assistant 功能：上下文感知代码生成、高级代码补全、自动化测试创建、AI 聊天等。 与 JetBrains IDE 无缝集成，增强效率和代码质量。
+  - name: Cursor
+    url: https://cursor.com/cn
+    img: https://cursor.com/marketing-static/icon-512x512.png
+    description: AI编辑器
+  - name: RooCode
+    url: https://github.com/RooCodeInc
+    img: https://roocode.com/android-chrome-512x512.png
+    description: VSCode AI编辑插件
 llm:
   - name: ChatGPT
     url: https://chatgpt.com/
@@ -168,15 +173,6 @@ ServiceTools:
     url: https://collov.cn/
     img: https://collov.cn/app_static/img/logo-zh.0082ecc1.svg
     description: 用想象的速度来创造家居设计
-CodeTools:
-  - name: Cursor
-    url: https://cursor.com/cn
-    img: https://cursor.com/marketing-static/icon-512x512.png
-    description: AI编辑器
-  - name: RooCode
-    url: https://github.com/RooCodeInc
-    img: https://roocode.com/android-chrome-512x512.png
-    description: VSCode AI编辑插件
 about:
   url: /about/
   icon: far fa-heart
