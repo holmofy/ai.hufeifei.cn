@@ -56,12 +56,20 @@ menu:
 ai-coder:
   - name: Qoder
     url: https://qoder.com/
-    img: https://img.alicdn.com/imgextra/i2/O1CN01js79rH1mt5nkV0kEl_!!6000000005011-55-tps-640-180.svg
+    img: https://img.alicdn.com/imgextra/i3/O1CN01KliT1u1jEq947NlKH_!!6000000004517-55-tps-180-180.svg
     description: 阿里旗下面向真实软件的智能体编程平台
   - name: Kiro
     url: https://kiro.dev/
     img: https://kiro.dev/icon.svg
     description: 亚马逊旗下 Kiro 通过规范驱动的开发，为 AI 编码带来结构，从而帮助您做到最好。
+  - name: ClaudeCode
+    url: https://claude.com/product/claude-code
+    img: https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c33859cc6cd903686c66a2_apple-touch-icon.png
+    description: Anthropic人工智能编码代理
+  - name: OpenCode
+    url: https://opencode.ai/
+    img: https://opencode.ai/favicon-96x96.png
+    description: 开源人工智能编码代理
   - name: 通义灵码
     url: https://lingma.aliyun.com/
     img: https://img.alicdn.com/imgextra/i1/O1CN01BN6Jtc1lCfJNviV7H_!!6000000004783-2-tps-134-133.png
