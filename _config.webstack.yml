@@ -52,9 +52,12 @@ menu:
       - name: 人机交互与服务
         icon: fas fa-blog
         config: ServiceTools
-      - name: 人机交互与服务
+      - name: 物理硬件
         icon: fas fa-blog
         config: PhysicsTools
+      - name: Skills
+        icon: fas fa-blog
+        config: Skills
 
 ai-coder:
   - name: Qoder
@@ -190,7 +193,15 @@ AIGCTools:
     url: https://comicfactory.ai
     img: https://comicfactory.ai/zh/icon.png
     description: AI Comic Factory 让你在几秒钟内将创意转化为精美的漫画。我们的 AI 平台非常适合用作礼物、故事分享或个人项目，让每个人都能发挥创造力。
-    
+  - name: 即梦AI
+    url: https://jimeng.jianying.com/
+    img: https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/common/images/dreamina-v1.ico
+    description: 字节剪影旗下视频生成AI
+  - name: Sora
+    url: https://sora.chatgpt.com/
+    img: https://cdn.openai.com/sora/assets/favicon-nf2.ico
+    description: OpenAI旗下视频生成AI
+
 ServiceTools:
   - name: quilter
     url: https://collov.cn/
@@ -201,6 +212,11 @@ PhysicsTools:
     url: https://www.quilter.ai/
     img: https://cdn.prod.website-files.com/68b7918b99fa38e5185dc4e6/68cefcf70a9c50735a90b66c_Webclip.png
     description: 基于物理的电子设计人工智能
+PhysicsTools:
+  - name: skills.sh
+    url: https://skills.sh/
+    img: https://skills.sh/favicon.ico?favicon.0b3bf435.ico
+    description: Skills.sh
 about:
   url: /about/
   icon: far fa-heart
