@@ -142,6 +142,10 @@ llm:
     url: https://gemini.google.com/
     img: https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg
     description: Google大模型
+  - name: 豆包
+    url: https://www.doubao.com/
+    img: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/180x180.png
+    description: 字节豆包大模型
   - name: 百炼
     url: https://bailian.console.aliyun.com/
     img: https://gw.alicdn.com/imgextra/i4/O1CN01vVn7g32134zNZEeAR_!!6000000006928-55-tps-24-24.svg
