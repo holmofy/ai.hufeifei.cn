@@ -52,6 +52,9 @@ menu:
       - name: 人机交互与服务
         icon: fas fa-blog
         config: ServiceTools
+      - name: 人机交互与服务
+        icon: fas fa-blog
+        config: PhysicsTools
 
 ai-coder:
   - name: Qoder
@@ -181,10 +184,15 @@ AIGCTools:
     description: AI Comic Factory 让你在几秒钟内将创意转化为精美的漫画。我们的 AI 平台非常适合用作礼物、故事分享或个人项目，让每个人都能发挥创造力。
     
 ServiceTools:
-  - name: collov
+  - name: quilter
     url: https://collov.cn/
     img: https://collov.cn/app_static/img/logo-zh.0082ecc1.svg
     description: 用想象的速度来创造家居设计
+PhysicsTools:
+  - name: collov
+    url: https://www.quilter.ai/
+    img: https://cdn.prod.website-files.com/68b7918b99fa38e5185dc4e6/68cefcf70a9c50735a90b66c_Webclip.png
+    description: 基于物理的电子设计人工智能
 about:
   url: /about/
   icon: far fa-heart
