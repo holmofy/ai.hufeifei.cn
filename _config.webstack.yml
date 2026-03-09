@@ -51,10 +51,13 @@ menu:
         config: AIGCTools
       - name: 人机交互与服务
         icon: fas fa-blog
-        config: ServiceTools
+        config: ServiceToolsv
       - name: 物理硬件
         icon: fas fa-blog
         config: PhysicsTools
+      - name: Claw大龙虾
+        icon: fas fa-blog
+        config: ClawAgentTools
       - name: Skills
         icon: fas fa-blog
         config: Skills
@@ -217,6 +220,28 @@ PhysicsTools:
     url: https://skills.sh/
     img: https://skills.sh/favicon.ico?favicon.0b3bf435.ico
     description: Skills.sh
+ClawAgentTools:
+  - name: openclaw
+    url: https://github.com/openclaw/openclaw
+    img: https://avatars.githubusercontent.com/u/252820863?s=200&v=4
+    description: TypeScript的OpenClaw(原Clawdbot)
+  - name: zeroclaw
+    url: https://github.com/zeroclaw-labs/zeroclaw
+    img: https://avatars.githubusercontent.com/u/261820148?s=200&v=4
+    description: Rust版的Claw(极致性能)
+  - name: ironclaw
+    url: https://github.com/nearai/ironclaw
+    img: https://www.ironclaw.com/_next/image?url=%2Fimages%2Firon_claw_guy1.png&w=640&q=75&dpl=dpl_44LHu5ve1Jm2HdFPJaCSG5Y6avBP
+    description: Rust版的Claw(主打安全，Transformer作者编写)
+  - name: nullclaw
+    url: https://github.com/nullclaw/nullclaw
+    img: https://avatars.githubusercontent.com/u/262007611?s=200&v=4
+    description: Zig版的Claw(超轻量极致性能)
+  - name: openfang
+    url: https://github.com/RightNow-AI/openfang
+    img: https://www.openfang.sh/favicon.ico?favicon.603e577d.ico
+    description: Rust版开源Agent操作系统
+
 about:
   url: /about/
   icon: far fa-heart
