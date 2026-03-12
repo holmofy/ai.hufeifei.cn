@@ -215,11 +215,19 @@ PhysicsTools:
     url: https://www.quilter.ai/
     img: https://cdn.prod.website-files.com/68b7918b99fa38e5185dc4e6/68cefcf70a9c50735a90b66c_Webclip.png
     description: 基于物理的电子设计人工智能
-PhysicsTools:
+Skills:
   - name: skills.sh
     url: https://skills.sh/
     img: https://skills.sh/favicon.ico?favicon.0b3bf435.ico
     description: Skills.sh
+  - name: 腾讯Skillhub
+    url: https://skillhub.tencent.com/
+    img: https://cloudcache.tencent-cloud.com/qcloud/ui/static/open_source/fa130398-5145-4823-bcf7-b0d4d3127eba.png
+    description: 专为中国用户优化的Skills社区
+  - name: Clawhub
+    url: https://clawhub.ai/
+    img: https://clawhub.ai/clawd-logo.png
+    description: 官方Skillhub
 ClawAgentTools:
   - name: openclaw
     url: https://github.com/openclaw/openclaw
