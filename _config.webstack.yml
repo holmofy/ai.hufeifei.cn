@@ -49,9 +49,12 @@ menu:
       - name: 内容创作
         icon: fas fa-blog
         config: AIGCTools
+      - name: UI交互设计
+        icon: fas fa-blog
+        config: DesignTools
       - name: 人机交互与服务
         icon: fas fa-blog
-        config: ServiceToolsv
+        config: ServiceTools
       - name: 物理硬件
         icon: fas fa-blog
         config: PhysicsTools
@@ -210,6 +213,11 @@ ServiceTools:
     url: https://collov.cn/
     img: https://collov.cn/app_static/img/logo-zh.0082ecc1.svg
     description: 用想象的速度来创造家居设计
+DesignTools:
+  - name: Stitch
+    url: https://stitch.withgoogle.com/
+    img: https://www.gstatic.com/labs-code/favicon-192x192.png
+    description: 为移动和Web端UI设计
 PhysicsTools:
   - name: collov
     url: https://www.quilter.ai/
