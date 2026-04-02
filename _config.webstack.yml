@@ -61,6 +61,9 @@ menu:
       - name: Claw大龙虾
         icon: fas fa-blog
         config: ClawAgentTools
+      - name: AI生态协议
+        icon: fas fa-blog
+        config: protocolTools
       - name: Skills
         icon: fas fa-blog
         config: Skills
