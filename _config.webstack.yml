@@ -175,6 +175,18 @@ protocolTools:
     url: https://a2a-protocol.org/
     img: https://a2a-protocol.org/latest/assets/a2a-logo-black.svg
     description: A2A 协议是由谷歌推出并移交 Linux 基金会管理的开放标准，旨在解决不同框架和厂商构建的 AI 智能体之间的互操作性难题，让异构智能体能够像使用通用语言一样进行无缝通信与协作。
+  - name: A2UI
+    url: https://a2ui.org/
+    img: https://a2ui.org/assets/A2UI_dark.svg
+    description: A2UI 是一种协议，让 AI 代理无需执行任意代码，就能生成在 Web、移动端和桌面端原生渲染的丰富交互式用户界面。
+  - name: AG-UI
+    url: https://agui.org/
+    img: https://docs.ag-ui.com/mintlify-assets/_mintlify/favicons/tawkitai/17hLUYwUWrJRbY20/_generated/favicon/apple-touch-icon.png
+    description: AG-UI 是一种开放、轻量级且基于事件的协议，旨在标准化 AI 代理与面向用户的应用程序之间的通用双向连接，从而简化开发流程，帮助开发者快速构建可靠、可调试且用户友好的代理功能。
+  - name: ANP
+    url: https://agent-network-protocol.com/
+    img: https://agent-network-protocol.com/icon.png
+    description: ANP 是一种开源的智能体通信协议，旨在成为智能体互联网时代的 HTTP 协议，通过解决智能体间无法高效、安全、标准化通信的难题，赋能智能体在网络上进行发现、连接与交互，从而构建开放协作的智能体网络。
   - name: Agents.md
     url: https://agents.md/
     img: https://agents.md/favicon-light.png
