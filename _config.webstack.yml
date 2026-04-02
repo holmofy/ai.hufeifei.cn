@@ -159,6 +159,27 @@ llm:
     url: https://bailian.console.aliyun.com/
     img: https://gw.alicdn.com/imgextra/i4/O1CN01vVn7g32134zNZEeAR_!!6000000006928-55-tps-24-24.svg
     description: 阿里大模型服务平台 - 百炼控制台
+protocolTools:
+  - name: ACP
+    url: https://agentclientprotocol.com/
+    img: https://mintcdn.com/zed-685ed6d6/ZwvtxaoaZwBJrK5s/logo/light.svg
+    description: ACP 旨在通过标准化代码编辑器与 AI 编程助手之间的通信协议，消除因缺乏统一接口而产生的重复集成工作、兼容性差及用户被绑定等痛点，从而像 LSP 统一语言服务器那样实现两者的解耦与互操作。
+  - name: MCP
+    url: https://modelcontextprotocol.io/
+    img: https://mintcdn.com/mcp/2BMHnlNW5OqOohXZ/logo/light.svg
+    description: MCP 就像是 AI 领域的 USB-C 接口，它通过提供统一的开源标准，让 AI 应用能轻松连接外部数据、工具和工作流，从而获取信息并执行任务。
+  - name: A2A
+    url: https://a2a-protocol.org/
+    img: https://a2a-protocol.org/latest/assets/a2a-logo-black.svg
+    description: A2A 协议是由谷歌推出并移交 Linux 基金会管理的开放标准，旨在解决不同框架和厂商构建的 AI 智能体之间的互操作性难题，让异构智能体能够像使用通用语言一样进行无缝通信与协作。
+  - name: Agents.md
+    url: https://agents.md/
+    img: https://agents.md/favicon-light.png
+    description: AGENTS.md 就像是写给 AI 编程助手看的 README，它通过一个简单、开放的格式，为 AI 提供项目上下文和指令，帮助它们更好地理解并操作你的代码项目。
+  - name: AgenticAI
+    url: https://aaif.landscape2.io/
+    img: https://aaif.landscape2.io/images/favicon.png
+    description: Linux Agentic AI基金会
 InfoExtractTools:
   - name: WeKnora
     url: https://github.com/Tencent/WeKnora
