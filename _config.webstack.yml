@@ -251,6 +251,10 @@ AIGCTools:
     url: https://updream.bilibili.com/
     img: http://s1.hdslb.com/bfs/static/jinkela/ai-tool/icon.png
     description: B站旗下视频创作
+  - name: 小云雀
+    url: https://xyq.jianying.com/
+    img: https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/cc4b_web/logo-white-64.ico
+    description: 字节跳动旗下视频创作Agent
 
 ServiceTools:
   - name: quilter
