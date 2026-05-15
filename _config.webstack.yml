@@ -255,6 +255,10 @@ AIGCTools:
     url: https://xyq.jianying.com/
     img: https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/cc4b_web/logo-white-64.ico
     description: 字节跳动旗下视频创作Agent
+  - name: LibTV
+    url: https://www.liblib.tv/
+    img: https://www.liblib.tv/favicon.ico
+    description: 北京奇点星宇科技有限公司基于画布的视频创作工具
 
 ServiceTools:
   - name: quilter
